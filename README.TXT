@@ -1,9 +1,9 @@
 ## DESCRIPTION ##
 --------------------------------------------------------------------------------
-AUTOWORK is a software designed to integrate all components necessary to perform
-automated molecular simulations and trajectory analyses;
-PreSQ is an algorithm embedded in AUTOWORK for prediction of quench temperatures
-in automated glass formation simulations.
+AUTOWORK is software designed to integrate all components necessary to perform
+automated molecular simulations and trajectory analyses; PreSQ is an algorithm
+embedded in AUTOWORK for prediction of quench temperatures in automated glass
+formation simulations.
 
 
 ## HOW TO EXECUTE AUTOWORK PROGRAM ##
@@ -13,7 +13,7 @@ in automated glass formation simulations.
 Ex. ./AUTOWORK -i initial.inp
 
 
-## SOFTWARE DOWNLOAD ##
+## DOWNLOAD ##
 --------------------------------------------------------------------------------
 Documentation, examples, and supporting code are available at:
 http://blogs.uakron.edu/simmonsgroup
